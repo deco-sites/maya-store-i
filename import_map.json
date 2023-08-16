@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/maya-store-i/": "./",
+
     "deco-sites/staging/": "./",
     "deco-sites/fashion/": "./",
     "$store/": "./",
